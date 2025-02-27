@@ -26,5 +26,16 @@ source .venv/bin/activate
 python3 -m pip install --upgrade pip setuptools wheel
 python3 -m pip install -r requirements.txt
 ```
+6. Add data folder
+- named "ave_hi_nyc_jan_1985-2018.csv
+7. Create Jupyter folder
+- named craigwilcox_ml.ipynb
 
-------To Be continued
+## Create project
+note: all code and markdown cells explain details of steps within the folder this is an overview
+1. Import Dependencies and dataset
+2. Chart a straight line
+3. Prediction using scipy
+4. Prediction using scikit
+5. Insights
+
